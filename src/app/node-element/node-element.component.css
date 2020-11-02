@@ -1,0 +1,13 @@
+#container {
+    width: 100%;
+}
+.circle {
+    width: 33%;
+    height:98%;
+    line-height: 500px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    background: #000
+  }

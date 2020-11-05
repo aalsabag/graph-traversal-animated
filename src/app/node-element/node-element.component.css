@@ -5,6 +5,11 @@
     display: flex;
 }
 
+.flex-container:hover {
+    background: #e1e1e1;
+    border-top: 1px solid #d0d0d0;
+}
+
 .wrapper-div {
     width: 33%;
     height: 100%;

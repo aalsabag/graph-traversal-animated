@@ -1,6 +1,9 @@
 #one {
     height:50vw;
+    transition:5s ease;
+    right:-200px;
 }
+
 
 #two {
     height:50vw;

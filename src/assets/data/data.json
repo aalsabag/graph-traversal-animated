@@ -1,0 +1,57 @@
+[
+    {
+        "label": "This is a test one",
+        "nodeText": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+        "imageAsset": "/assets/images/prairie.jpg",
+        "children": [
+            {
+                "label": "this is a child test one",
+                "nodeText":"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+                "imageAsset": "/assets/images/mountains.jpg",
+                "children" : []
+            },
+
+            {
+                "label": "this is a child test two",
+                "nodeText":"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+                "imageAsset": "/assets/images/lake.jpg",
+                "children" : []
+            }
+        ]
+    },
+
+    {
+        "label": "This is a test two",
+        "nodeText": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+        "imageAsset": "/assets/images/forest.jpg",
+        "children": [
+            {
+                "label": "this is a child test three",
+                "nodeText":"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+                "imageAsset": "/assets/images/prairie.jpg",
+                "children" : []
+            },
+
+            {
+                "label": "this is a child test four",
+                "nodeText":"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+                "imageAsset": "/assets/images/forest.jpg",
+                "children" : []
+            }
+        ]
+    },
+
+    {
+        "label": "This is a test three",
+        "nodeText": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+        "imageAsset": "/assets/images/lake.jpg",
+        "children": []  
+    },
+
+    {
+        "label": "This is a test four",
+        "nodeText": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.",
+        "imageAsset": "/assets/images/lake.jpg",
+        "children": []  
+    }
+]

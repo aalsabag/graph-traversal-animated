@@ -1,7 +1,14 @@
-
-<div id="one" style="height:25%;">
+<ng-container *ngFor="let item of dataInput; let c = count;">
+  <div id="one" style="height:{{100/c}}%;">
+    <app-node-element 
+      label={{item.label}}
+      nodeText={{item.nodeText}}
+      imageAsset={{item.imageAsset}}></app-node-element>
+  </div>
+</ng-container>
+<!-- <div id="one" style="height:25%;">
   <app-node-element 
-    label="Testing element three today"
+    label={{item.label}}
     nodeText="But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
     imageAsset="/assets/images/prairie.jpg"></app-node-element>
 </div>
@@ -22,5 +29,6 @@
     label="Testing element three today"
     nodeText="But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful."
     imageAsset="/assets/images/lake.jpg"></app-node-element>
-</div>
+</div> -->
+
 
